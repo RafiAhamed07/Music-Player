@@ -66,7 +66,3 @@ pip3 install -r requirements.txt
 - [Pillow](https://python-pillow.org/) - Used for handling images in the Tkinter GUI.
 - [Pygame](https://www.pygame.org/news) - Used for playing audio files.
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) - Python's standard GUI toolkit.
-
-  ```CSS
-   This ` README.md` provides a comprehensive overview of your project, including installation instructions, usage details, and developer information. You can modify it further to suit your specific needs.
-  ``` 
