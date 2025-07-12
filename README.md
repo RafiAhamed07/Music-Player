@@ -1,4 +1,5 @@
-# Music Player App
+# Luno
+## Music Player App
 
 This is a Python-based Music Player application that allows users to play, pause, resume, and stop music files. The app
 features a graphical user interface (GUI) built with Tkinter and uses the `pygame` library for audio playback. The
